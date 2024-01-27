@@ -46,18 +46,3 @@
      Ensure that the MySQL JDBC driver is available in the classpath.
 8. Instructions
      Compile and run the HMS_MENU class to start the Hotel Management System.
-
-
-
-
-                   GROUP-MEMBERS
-    Name  ----------------------------     ID_NO
-
-1. GIRUM TAMIRAT---------------------------1403844
-2. HABTAMU ZENEBE-----------------------  -1403887
-3. KIDUS MATEWOS---------------------------1404153
-4. HENOK TADESSE------------------------- -1406180
-5. NEHIMIA SAMUEL--------------------------1401394
-6. ABRIHAM AREGA---------------------------1402662
-7. ASCHALEW TILAHUN----------------------  1402849
-8. ADEY ASEFA------------------------------1402685
