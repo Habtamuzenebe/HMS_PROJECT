@@ -43,15 +43,3 @@ INSERT INTO rooms VALUES
 select *from guests;
 select *from rooms;
 select *from bookings;
-
-
-
-
-
-
-Views
-
-
-
-
-
